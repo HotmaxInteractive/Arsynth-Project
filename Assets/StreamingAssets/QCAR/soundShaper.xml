@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="10000YenFront" size="1.000000 0.476875" />
+    <ImageTarget name="10000YenBack" size="1.000000 0.474286" />
+    <ImageTarget name="5000YenFront" size="1.000000 0.735385" />
+    <ImageTarget name="5000YenBack" size="1.000000 0.496250" />
+    <ImageTarget name="1000YenFront" size="1.000000 0.500000" />
+    <ImageTarget name="1000YenBack" size="1.000000 0.525000" />
+    <ImageTarget name="2000RupeeBack" size="1.000000 0.405080" />
+    <ImageTarget name="500RupeeFront" size="1.000000 0.562857" />
+    <ImageTarget name="500RupeeBack" size="1.000000 0.562500" />
+    <ImageTarget name="100RupeeFront" size="1.000000 0.479542" />
+    <ImageTarget name="100RupeeBack" size="1.000000 0.463125" />
+    <ImageTarget name="100RMBFront" size="1.000000 0.512981" />
+    <ImageTarget name="100RMBBack" size="1.000000 0.493875" />
+    <ImageTarget name="50RMBFront" size="1.000000 0.464126" />
+    <ImageTarget name="50RMBBack" size="1.000000 0.465845" />
+    <ImageTarget name="20RMBFront" size="1.000000 0.496250" />
+    <ImageTarget name="20RMBBack" size="1.000000 0.484375" />
+    <ImageTarget name="20EuroFront" size="1.000000 0.534375" />
+    <ImageTarget name="20EuroBack" size="1.000000 0.533672" />
+    <ImageTarget name="10RMBFront" size="1.000000 0.503588" />
+    <ImageTarget name="10RMBBack" size="1.000000 0.530273" />
+    <ImageTarget name="5EuroFront" size="1.000000 0.547500" />
+    <ImageTarget name="5EuroBack" size="1.000000 0.538750" />
+    <ImageTarget name="5CanadianFront" size="1.000000 0.458472" />
+    <ImageTarget name="5CanadianBack" size="1.000000 0.471333" />
+    <ImageTarget name="10DolllarFront" size="1.000000 0.423047" />
+    <ImageTarget name="5DollarFront" size="1.000000 0.422507" />
+    <ImageTarget name="20DollarBillFront" size="1.000000 0.426667" />
+    <ImageTarget name="10EuroFront" size="1.000000 0.544000" />
+    <ImageTarget name="10EuroBack" size="1.000000 0.500000" />
+    <ImageTarget name="1DollarBack" size="1.000000 0.426667" />
+    <ImageTarget name="20DollarBack" size="1.000000 0.423077" />
+    <ImageTarget name="1DollarFront" size="1.000000 0.414988" />
+    <ImageTarget name="5DollarBack" size="1.000000 0.423750" />
+    <ImageTarget name="10DollarBack" size="1.000000 0.423077" />
+    <ImageTarget name="5RMBBack" size="1.000000 0.476134" />
+    <ImageTarget name="5RMBFront" size="1.000000 0.476134" />
+  </Tracking>
+</QCARConfig>
