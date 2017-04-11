@@ -1,4 +1,4 @@
 [submodule "Main"]
 	path = Assets/_Components/Main
 	url = git@github.com:HotmaxInteractive/Arsynth-Components.git
-  ignore = all
+	ignore = all
