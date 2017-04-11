@@ -6,7 +6,7 @@ using Vuforia;
 public class BillTracking : MonoBehaviour, ITrackableEventHandler {
 
 	private TrackableBehaviour mTrackableBehaviour;
-	public GameObject littleBuddy;
+	//public GameObject littleBuddy;
 	public GameObject trackingScreen;
 	bool onTracked;
 
@@ -33,15 +33,15 @@ public class BillTracking : MonoBehaviour, ITrackableEventHandler {
 
 			onTracked = true;
 
-			littleBuddy.GetComponent<Animator>().SetBool("tracked", true);
+			//littleBuddy.GetComponent<Animator>().SetBool("tracked", true);
 			trackingScreen.GetComponent<Animator>().SetBool("tracked", true);
 
-			Renderer[] rendererComponents = littleBuddy.GetComponentsInChildren<Renderer>(true);
-			Collider[] colliderComponents = littleBuddy.GetComponentsInChildren<Collider>(true);
-			Canvas[] canvasComponents = littleBuddy.GetComponentsInChildren<Canvas>(true);
+			//Renderer[] rendererComponents = littleBuddy.GetComponentsInChildren<Renderer>(true);
+			//Collider[] colliderComponents = littleBuddy.GetComponentsInChildren<Collider>(true);
+			//Canvas[] canvasComponents = littleBuddy.GetComponentsInChildren<Canvas>(true);
 
 			// Enable Renderers
-			foreach (Renderer component in rendererComponents)
+			/*foreach (Renderer component in rendererComponents)
 			{
 				component.enabled = true;
 			}
@@ -55,7 +55,7 @@ public class BillTracking : MonoBehaviour, ITrackableEventHandler {
 			foreach (Canvas component in canvasComponents)
 			{
 				component.enabled = true;
-			}
+			}*/
 
 			StartCoroutine(doButtonJump ());
 
@@ -72,15 +72,15 @@ public class BillTracking : MonoBehaviour, ITrackableEventHandler {
 
 			onTracked = false;
 
-			littleBuddy.GetComponent<Animator>().SetBool("tracked", false);
+			//littleBuddy.GetComponent<Animator>().SetBool("tracked", false);
 			trackingScreen.GetComponent<Animator>().SetBool("tracked", false);
 
-			Renderer[] rendererComponents = littleBuddy.GetComponentsInChildren<Renderer>(true);
-			Collider[] colliderComponents = littleBuddy.GetComponentsInChildren<Collider>(true);
-			Canvas[] canvasComponents = littleBuddy.GetComponentsInChildren<Canvas>(true);
+			//Renderer[] rendererComponents = littleBuddy.GetComponentsInChildren<Renderer>(true);
+			//Collider[] colliderComponents = littleBuddy.GetComponentsInChildren<Collider>(true);
+			//Canvas[] canvasComponents = littleBuddy.GetComponentsInChildren<Canvas>(true);
 
 			// Disable rendering:
-			foreach (Renderer component in rendererComponents)
+			/*foreach (Renderer component in rendererComponents)
 			{
 				component.enabled = false;
 			}
@@ -94,7 +94,7 @@ public class BillTracking : MonoBehaviour, ITrackableEventHandler {
 			foreach (Canvas component in canvasComponents)
 			{
 				component.enabled = false;
-			}
+			}*/
 
 			setVisAnimIdle ();
 		}

@@ -13,3 +13,27 @@ EditorBuildSettings:
     path: Assets/_Scenes/AmericanDollarVR.unity
   - enabled: 0
     path: Assets/_Scenes/LittleBuddy.unity
+  - enabled: 1
+    path: Assets/_Components/Main.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_ScreenUI.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_EchoScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_ScaleScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_Lighting.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_FaceScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_ChorusScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_SampleScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_Targets.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_ReverbScreen.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_Speech Bubble.unity
+  - enabled: 1
+    path: Assets/_Components/Main/Chunks/Main_Visualizer.unity
