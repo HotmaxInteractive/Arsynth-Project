@@ -1,3 +1,4 @@
 [submodule "Assets/Components/Arsynth-Components"]
 	path = Assets/Components/Main
 	url = https://github.com/HotmaxInteractive/Arsynth-Components
+	ignore = all
