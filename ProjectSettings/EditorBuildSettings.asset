@@ -37,3 +37,29 @@ EditorBuildSettings:
     path: Assets/_Components/Main/Chunks/Main_Speech Bubble.unity
   - enabled: 1
     path: Assets/_Components/Main/Chunks/Main_Visualizer.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_Lighting.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_Targets.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_Speech Bubble.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_ScreenUI.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_Visualizer.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_ScreenUI.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_Visualizer.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_Targets.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_Lighting.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_SoundManager.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_Scalescreen.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_Facescreen.unity
+  - enabled: 1
+    path: Assets/Components/Main/Chunks/Main_SECTOR_ComputerModel.unity
