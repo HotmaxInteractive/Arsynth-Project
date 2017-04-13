@@ -42,6 +42,8 @@ TagManager:
   - sample5
   - sample6
   - changeScale
+  - sample
+  - Store_Audio
   layers:
   - Default
   - TransparentFX
