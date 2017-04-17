@@ -44,7 +44,6 @@ TagManager:
   - changeScale
   - sample
   - Store_Audio
-  - Undefined
   - Store_UI
   layers:
   - Default
