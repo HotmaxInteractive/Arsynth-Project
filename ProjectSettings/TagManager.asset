@@ -45,6 +45,7 @@ TagManager:
   - sample
   - Store_Audio
   - Store_UI
+  - Sound_Board
   layers:
   - Default
   - TransparentFX
